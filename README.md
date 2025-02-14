@@ -9,3 +9,11 @@
 
 [My Course Notes](comp1238.md)
 
+## My Schedule
+- **Monday**
+  - 13:00 - [COMP1238 - Data Management](https://learn.georgebrown.ca/d2l/home/334969)
+  - 16:00 - COMP0000 - Not a real course
+- **Tuesday**
+  - 14:00 - [COMP2222 - Web Development](https://learn.georgebrown.ca/d2l/home/334970)
+
+
